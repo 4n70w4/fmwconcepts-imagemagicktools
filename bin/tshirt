@@ -834,4 +834,7 @@ if [ "$export" = "yes" -a "$directory" != "" ]; then
 	echo "compose=\"$compose\"" >> $directory/tshirtdata.txt
 fi
 
+exit 0"compose=\"$compose\"" >> $directory/tshirtdata.txt
+fi
+
 exit 0
